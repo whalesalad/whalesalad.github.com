@@ -1,0 +1,10 @@
+---
+layout: post
+title: Screwing Around with Jekyll
+---
+
+h1. {{ page.title }}
+
+p(meta). 13 Apr 2009 - Honolulu
+
+A few months ago I tossed my blog out the window and didn't look back. I've been pretty busy over the course of the past few weeks, however, and not having an outlet for all of the creative genius kept hostage in my mind has given me quite an itch. This is my first attempt at scratching that itch. A blog post, written in textile, fed through a handfull of fancy doodads and whizbangs (read: "Jekyll":http://github.com/mojombo/jekyll/tree/master), and eventually ending up on the interweb is my attempt at scratching that itch. We'll see how this turns out.

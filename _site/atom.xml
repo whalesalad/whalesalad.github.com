@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>whalesalad</title>
+ <link href="http://whalesalad.github.com/atom.xml" rel="self"/>
+ <link href="http://whalesalad.github.com/"/>
+ <updated>2009-04-13T03:04:02-10:00</updated>
+ <id>http://whalesalad.github.com/</id>
+ <author>
+   <name>Michael Whalen</name>
+   <email>michael@whalesalad.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Screwing Around with Jekyll</title>
+   <link href="http://whalesalad.github.com/2009/04/13/screwing-around.html"/>
+   <updated>2009-04-13T00:00:00-10:00</updated>
+   <id>http://whalesalad.github.com/2009/04/13/screwing-around</id>
+   <content type="html">&lt;h1&gt;Screwing Around with Jekyll&lt;/h1&gt;
+&lt;p class="meta"&gt;13 Apr 2009 &amp;#8211; Honolulu&lt;/p&gt;
+&lt;p&gt;A few months ago I tossed my blog out the window and didn&amp;#8217;t look back. I&amp;#8217;ve been pretty busy over the course of the past few weeks, however, and not having an outlet for all of the creative genius kept hostage in my mind has given me quite an itch. This is my first attempt at scratching that itch. A blog post, written in textile, fed through a handfull of fancy doodads and whizbangs (read: &lt;a href="http://github.com/mojombo/jekyll/tree/master"&gt;Jekyll&lt;/a&gt;), and eventually ending up on the interweb is my attempt at scratching that itch. We&amp;#8217;ll see how this turns out.&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>
